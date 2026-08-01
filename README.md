@@ -1,5 +1,5 @@
 # Reports
-Collection of pentesting and web application security testing reports.
+Collection of web application security testing write-ups/reports.
 
 Other reports (openbugbounty):
 https://www.openbugbounty.org/researchers/r0hna/
