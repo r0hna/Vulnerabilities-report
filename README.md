@@ -20,7 +20,7 @@ The goal of these reports is to demonstrate a rigorous, methodology-driven appro
 Every report hosted in this repository follows a professional, audit-ready structure:
 1. **Executive Summary:** A high-level overview of the security posture, business risks, and key findings for non-technical stakeholders.
 2. **Vulnerability Breakdown:** Clean, repeatable **Proof of Concept (PoC)** steps with screenshots or request/response logs.
-3. **Risk Rating:** Accurate severity classification using the standard **CVSS v3.1** vector strings.
+3. **Risk Rating:** Accurate severity classification using the `High`, `Medium` and `Low` strings.
 4. **Remediation Strategies:** Practical recommendations to patch the root cause of the flaws.
 
 ---
