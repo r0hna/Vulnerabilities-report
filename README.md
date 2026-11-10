@@ -36,4 +36,4 @@ Beyond static reports, I actively sharpen my skills across several security plat
 ## 📨 Connect With Me:
 * [Linkedin](https://linkedin.com/in/r0hna)
 * [Openbugbounty](https://www.openbugbounty.org/researchers/r0hna/)
-* [Medium](https://rohitdalal.medium.com/)
+* [Medium Articles](https://rohitdalal.medium.com/)
